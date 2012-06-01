@@ -1,0 +1,5 @@
+C:\Users\yogesh\Desktop\testingASP\test1\test1\bin\test1.dll
+C:\Users\yogesh\Desktop\testingASP\test1\test1\bin\test1.pdb
+C:\Users\yogesh\Desktop\testingASP\test1\test1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yogesh\Desktop\testingASP\test1\test1\obj\Debug\test1.dll
+C:\Users\yogesh\Desktop\testingASP\test1\test1\obj\Debug\test1.pdb
